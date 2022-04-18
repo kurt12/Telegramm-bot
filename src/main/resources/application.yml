@@ -1,0 +1,18 @@
+telegrambot:
+  webHookPath: https://c9aa-188-123-231-190.ngrok.io
+  userName: '@xcvcxdfs_bot'
+  botToken: 5082958582:AAF-O4y_eYSUoCHWv_k497Fk4vq0ULTPfTQ
+server:
+  port: '5000'
+yandex:
+  api:
+    key: 8745612c-ee43-427d-8203-c082b0c2ebfc
+
+#  server.port=5000
+#  telegrambot.webHookPath = https://c9aa-188-123-231-190.ngrok.io
+#  telegrambot.userName = @xcvcxdfs_bot
+#  telegrambot.botToken = 5082958582:AAF-O4y_eYSUoCHWv_k497Fk4vq0ULTPfTQ
+#  yandex.api.key = 8745612c-ee43-427d-8203-c082b0c2ebfc
+spring:
+  application:
+    name: weather
